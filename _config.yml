@@ -30,11 +30,13 @@ twitter_username: yuxiwu
 github_username:  yuxi-wu
 
 # Build settings
-theme: "just-the-docs"
+
+remote_theme: pmarsceill/just-the-docs
+#theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
-remote_theme: pmarsceill/just-the-docs
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
