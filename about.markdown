@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a third-year CS PhD student at Georgia Tech's School of Interactive Computing. I study user privacy and social cybersecurity and am co-advised by Sauvik Das and Keith Edwards. Specifically, I'm interested in large-scale group privacy and collective action. Talk to me about people-powered privacy policies and consumer data unions!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Previously, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I received my M.S. in computational analysis and public policy from the University of Chicago in 2018, and my B.A. in economics and business from University College London in 2015.
