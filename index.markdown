@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello, I'm Yuxi.  I'm a third-year CS PhD student at Georgia Tech's School of Interactive Computing. I study user privacy and social cybersecurity and am co-advised by Sauvik Das and Keith Edwards.

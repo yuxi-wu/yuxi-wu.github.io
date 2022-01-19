@@ -30,7 +30,7 @@ twitter_username: yuxiwu
 github_username:  yuxi-wu
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
