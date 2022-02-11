@@ -15,14 +15,14 @@ nav_order: 3
 * ### [SoK: Social Cybersecurity](./pubs/sp22_sok_socialcybersecurity.pdf)
 **Wu, Yuxi**, W. Keith Edwards, Sauvik Das.  Forthcoming in _IEEE Symposium on Security and Privacy_ (Oakland) 2022.
 
-* ### [Privacy for the people? Exploring collective action as a mechanism to shift power to consumers in end-user privacy](https://yuxi-wu.github.io/pubs/ieeesp21_pftp.pdf)
+* ### [Privacy for the people? Exploring collective action as a mechanism to shift power to consumers in end-user privacy](./pubs/ieeesp21_pftp.pdf)
 Das, Sauvik, W. Keith Edwards, DeBrae Kennedy-Mayo, Peter Swire, and **Yuxi Wu**. _IEEE Security & Privacy_ 19, no. 5 (2021): 66-70.
 
-* ### [Exploring the utility versus intrusiveness of dynamic audience selection on Facebook](https://yuxi-wu.github.io/pubs/cscw21_dynamicaudienceselection.pdf)
+* ### [Exploring the utility versus intrusiveness of dynamic audience selection on Facebook](./pubs/cscw21_dynamicaudienceselection.pdf)
 Ernala, Sindhu Kiranmai, Stephanie S. Yang, **Yuxi Wu**, Rachel Chen, Kristen Wells, and Sauvik Das. _Proceedings of the ACM on Human-Computer Interaction_ 5, no. CSCW2 (2021): 1-30.
 
-* ### [Smart Webcam Cover: Exploring the design of an intelligent webcam cover to improve usability and trust](https://yuxi-wu.github.io/pubs/imwut21_smartwebcamcover.pdf)
+* ### [Smart Webcam Cover: Exploring the design of an intelligent webcam cover to improve usability and trust](./pubs/imwut21_smartwebcamcover.pdf)
 Do, Youngwook, Jung Wook Park, **Yuxi Wu**, Avinandan Basu, Dingtian Zhang, Gregory D. Abowd, and Sauvik Das.  _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_ 5, no. 4 (2021): 1-21.
 
-* ### [Your secrets are safe: How browsers' explanations impact misconceptions about private browsing mode](https://yuxi-wu.github.io/pubs/www18_yoursecretsaresafe.pdf)
+* ### [Your secrets are safe: How browsers' explanations impact misconceptions about private browsing mode](./pubs/www18_yoursecretsaresafe.pdf)
 **Wu, Yuxi**, Panya Gupta, Miranda Wei, Yasemin Acar, Sascha Fahl, and Blase Ur.  In _Proceedings of the 2018 World Wide Web Conference_, pp. 217-226. 2018.
