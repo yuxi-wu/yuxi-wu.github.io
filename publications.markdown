@@ -9,7 +9,7 @@ nav_order: 3
 
 <br/>
 
-* ### "A reasonable thing to ask for": Towards a unified voice in privacy collective action
+* ### ["A reasonable thing to ask for": Towards a unified voice in privacy collective action](./pubs/chi22_unifiedvoice.pdf)
 **Wu, Yuxi**, W. Keith Edwards, Sauvik Das.  Forthcoming in _ACM CHI Conference on Human Factors in Computing Systems_ (CHI) 2022.
 
 * ### [SoK: Social Cybersecurity](./pubs/sp22_sok_socialcybersecurity.pdf)
