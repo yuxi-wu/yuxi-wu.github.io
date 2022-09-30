@@ -10,7 +10,7 @@ nav_order: 1
 # hi, i'm yuxi.
 <br/>
 
-I'm a third-year computer science PhD student at Georgia Tech's School of Interactive Computing, studying human-computer interaction and computer-supported cooperative work.  I specialize in user privacy and social cybersecurity,  Specifically, I'm interested in collective action for end-user privacy:
+I'm a fourth-year computer science PhD student at Georgia Tech's School of Interactive Computing, studying human-computer interaction and computer-supported cooperative work.  I specialize in user privacy and social cybersecurity,  Specifically, I'm interested in collective action for end-user privacy:
 
 * what motivates people to participate in collective empathy
 * how people unite on demands for redress from big bad privacy-violating institutions
