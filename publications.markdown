@@ -9,7 +9,7 @@ nav_order: 3
 
 <br/>
 
-& ### [The slow violence of surveillance capitalism: How online behavioral advertising harms people](./pubs/facct23_slowviolenceOBAharms.pdf)
+* ### [The slow violence of surveillance capitalism: How online behavioral advertising harms people](./pubs/facct23_slowviolenceOBAharms.pdf)
 **Wu, Yuxi**, Sydney Bice, W. Keith Edwards, Sauvik Das.  Forthcoming in _2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’23)._ Chicago, IL, June 2023.
 
 * ### [SoK: Social Cybersecurity](./pubs/sp22_sok_socialcybersecurity.pdf)
