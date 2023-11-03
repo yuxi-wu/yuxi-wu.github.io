@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # about
-<br/>
+[CV available here.](./cv_yuxiwu.pdf)
 
 Previously, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.
 
