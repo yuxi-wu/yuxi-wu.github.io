@@ -20,6 +20,6 @@ Specifically, I'm interested in collective action for end-user privacy:
 
 I conduct mixed-methods research on such action through creating design probes and design fiction.  I love surveys and interviewing.
 
-I am co-advised by [Sauvik Das](https://sauvikdas.com/) and [Keith Edwards](https://faculty.cc.gatech.edu/~keith/).
+I am co-advised by [Sauvik Das](https://sauvikdas.com/) and [Keith Edwards](https://faculty.cc.gatech.edu/~keith/).  My research is supported by a Georgia Tech President's Fellowship and a JP Morgan Chase AI Research Fellowship.
 
 ***I'm on the academic job market this year, looking for tenure-track faculty positions!***
