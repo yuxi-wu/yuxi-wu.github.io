@@ -12,7 +12,7 @@ nav_order: 2
 * M.S. Computational Analysis and Public Policy, University of Chicago, 2018.
 * B.A. Economics and Business, University College London, 2015.
 
-[CV available here.](./cv_yuxiwu.pdf)
+[CV available here.](./cv-yuxiwu.pdf)
 
 ### side quests
 Previously, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.
