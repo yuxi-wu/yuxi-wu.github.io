@@ -8,7 +8,7 @@ nav_order: 2
 # about
 
 ### education
-* Ph.D. Computer Science, Georgia Institute of Technology, exp. 2024.
+* Ph.D. Computer Science, Georgia Institute of Technology, 2024.
 * M.S. Computational Analysis and Public Policy, University of Chicago, 2018.
 * B.A. Economics and Business, University College London, 2015.
 
