@@ -10,7 +10,7 @@ nav_order: 1
 # hi, i'm yuxi.
 <br/>
 
-I am an incoming **Distinguished Postdoctoral Fellow** at **Northeastern University's Khoury College of Computer Sciences**.
+I am a **Distinguished Research Fellow** at **Northeastern University's Khoury College of Computer Sciences**.
 
 My work sits at the intersection of **usable privacy and security, human-computer interaction, and design**, via a lens of critical theory.  Specifically, I design collaborative and social systems that help people with privacy and security problems respond to their harms.  In my research, I aim to empower people to collectively respond to institutional privacy harms (e.g., online behavioral advertising, data breaches, surveillance, etc.) and demand accountability, mitigations, or reparations for those harms.  I conduct mixed-methods research on such collective action through creating design probes and design fiction; I also love surveys and interviewing.
 
