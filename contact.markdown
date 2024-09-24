@@ -8,9 +8,9 @@ nav_order: 4
 # contact 
 <br/>
 
-You can find me by TSRB 246, or not.
+Find me at 502-9 in 177 Huntington.
 
-firstlast at gatech dot edu
+firstname at ccs.neu.edu
 
 [twitter](https://twitter.com/yuxiwu)
 
