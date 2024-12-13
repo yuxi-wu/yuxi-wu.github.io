@@ -9,7 +9,7 @@ nav_order: 3
 
 <br/>
 
-* ### Design(ing) Fictions for Collective Civic Reporting of Privacy Harms.
+* ### [Design(ing) Fictions for Collective Civic Reporting of Privacy Harms](./pubs/cscw25_designingfictions-gotchas.pdf)
 **Yuxi Wu**, William Agnew, W. Keith Edwards, Sauvik Das.  Forthcoming at _CSCW 2025._
 
 * ### [The slow violence of surveillance capitalism: How online behavioral advertising harms people](./pubs/facct23_slowviolenceOBAharms.pdf)
