@@ -16,7 +16,7 @@ nav_order: 3
 **Yuxi Wu**, Jacob Logas, Devansh Ponda, Julia Haines, Jiaming Li, Jeffrey Nichols, W. Keith Edwards, Sauvik Das.  Forthcoming at _USEC 2025_.
 
 * ### [On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design](./pubs/usec25_ondemand-RFID.pdf)
-Youngwook Do, Tingyu Cheng, **Yuxi Wu**, Hyunjoo Oh, Daniel J. Wilson, Gregory D. Abowd, Sauvik Das.  Forthcoming at USEC 2025._
+Youngwook Do, Tingyu Cheng, **Yuxi Wu**, Hyunjoo Oh, Daniel J. Wilson, Gregory D. Abowd, Sauvik Das.  Forthcoming at _USEC 2025._
 
 * ### [The slow violence of surveillance capitalism: How online behavioral advertising harms people](./pubs/facct23_slowviolenceOBAharms.pdf)
 **Yuxi Wu**, Sydney Bice, W. Keith Edwards, Sauvik Das.  In Proc. _ACM Conference on Fairness, Accountability, and Transparency (FAccT)_, 2023.
