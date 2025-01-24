@@ -15,7 +15,7 @@ nav_order: 3
 * ### [Modeling End-User Affective Discomfort With Mobile App Permissions Across Physical Contexts](./pubs/usec25_discomfort-permissions.pdf)
 **Yuxi Wu**, Jacob Logas, Devansh Ponda, Julia Haines, Jiaming Li, Jeffrey Nichols, W. Keith Edwards, Sauvik Das.  Forthcoming at _USEC 2025_.
 
-* ### [On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design](./pubs/usec25_ondemand-RFID.pdf)
+* ### On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design
 Youngwook Do, Tingyu Cheng, **Yuxi Wu**, Hyunjoo Oh, Daniel J. Wilson, Gregory D. Abowd, Sauvik Das.  Forthcoming at _USEC 2025._
 
 * ### [The slow violence of surveillance capitalism: How online behavioral advertising harms people](./pubs/facct23_slowviolenceOBAharms.pdf)
