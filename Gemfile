@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 # THEME
 gem "webrick"
-gem "no-style-please"
+gem 'no-style-please', git: 'https://github.com/riggraz/no-style-please', branch: 'master'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
