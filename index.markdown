@@ -34,6 +34,14 @@ At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alex
 ## publications
 
 <ol reversed>
+<li><a href="">Provoking Transformation in Usable Privacy and Security: Designing for Enduring End-User Motivation Beyond Expert Compliance</a><br>
+<p><strong>Yuxi Wu</strong>, Alexandra To, Emilee Rader, W. Keith Edwards, Sauvik Das. 
+<br> Forthcoming in <i>New Security Paradigms Workshop</i>, 2025.</p></li>
+
+<li><a href="./pubs/sec25_homeless-service-sp.pdf">Navigating Security and Privacy Threats in Homeless Service Provision</a> <br>
+<p><strong>Yuxi Wu*</strong>, Ruoxi Zhang*, Shiyue Liu, Mufei Hei, Aidan Hong, Jeremy J. Northup, Calla Kainaroi, Fei Fang, Hong Shen.
+<br> Forthcoming at <i>34th USENIX Security Symposium</i>, 2025.</p></li>
+
 <li><a href="./pubs/cscw25_designingfictions-gotchas.pdf">Design(ing) Fictions for Collective Civic Reporting of Privacy Harms</a> <br>
 <p><strong>Yuxi Wu</strong>, William Agnew, W. Keith Edwards, Sauvik Das. 
 <br> <i>Proceedings of the ACM on Human-Computer Interaction (CSCW)</i>, 2025.</p></li>
