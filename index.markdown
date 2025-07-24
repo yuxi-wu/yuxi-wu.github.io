@@ -15,19 +15,15 @@ Distinguished Postdoctoral Research Fellow
 
 ## hi, i'm yuxi
 
-I am a Distinguished Postdoctoral Research Fellow at <strong>Northeastern University's Khoury College of Computer Sciences</strong>.  My work sits at the intersection of usable privacy and security, human-computer interaction, and design. 
+I am a Distinguished Postdoctoral Research Fellow at <strong>Northeastern University's Khoury College of Computer Sciences</strong>.  
 
-<strong><mark>I research ways to help people engage in and challenge discourse about privacy harms:</mark></strong>
-<ul>
-<li><p>How do people talk about privacy harms, individually and collectively?</p></li>
-<li><p>How can we transform how people talk about privacy harms?</p></li>
-<li><p>How can talking about privacy harms transform people?</p></li>
-<li><p>What are we, as researchers and designers, still missing from the conversation?</p></li>
-</ul>
+I am a <strong>human-computer interaction</strong> and <strong>design</strong> researcher specializing in <strong>usable privacy and security</strong>.  
 
-I conduct mixed-methods research on such collective action through creating design probes and design fiction.  I publish at top venues in human-computer interaction (CHI, CSCW), security and privacy (IEEE S&P), and AI ethics (FAccT).  My research has been supported by a Georgia Tech President's Fellowship and a JP Morgan Chase AI Research Fellowship. 
+<strong><mark>I examine how the deep entanglement of algorithmic technologies and digital services into society has resulted in concrete harms to people’s privacy; I design collaborative and social systems to help people recover from these privacy losses.</mark></strong>
 
-At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alexandra To</a> and <a href="https://adalerner.com/">Ada Lerner</a>.  I earned my PhD in Computer Science in 2024 from <strong>Georgia Tech's School of Interactive Computing</strong>, where I studied human-computer interaction and computer-supported cooperative work under the co-advisement of <a href="https://sauvikdas.com/">Sauvik Das</a> and <a href="https://faculty.cc.gatech.edu/~keith/">Keith Edwards</a>.  Prior to my PhD, I worked with <a href="https://www.blaseur.com/">Blase Ur</a> at the University of Chicago.
+My work employs a combination of speculative design and traditional HCI methods.  I publish at top venues in human-computer interaction (CHI, CSCW), security and privacy (IEEE S&P, USENIX Security), and AI ethics (FAccT).  My research has been supported by a Georgia Tech President's Fellowship and a JP Morgan Chase AI Research Fellowship. 
+
+At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alexandra To</a>.  I earned my PhD in Computer Science in 2024 from <strong>Georgia Tech's School of Interactive Computing</strong>, where I studied human-computer interaction and computer-supported cooperative work under the co-advisement of <a href="https://sauvikdas.com/">Sauvik Das</a> and <a href="https://faculty.cc.gatech.edu/~keith/">Keith Edwards</a>.  Prior to my PhD, I worked with <a href="https://www.blaseur.com/">Blase Ur</a> at the University of Chicago.
 
 ---
 
