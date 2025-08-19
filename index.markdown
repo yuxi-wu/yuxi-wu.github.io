@@ -17,17 +17,17 @@ Distinguished Postdoctoral Research Fellow
 
 I am a Distinguished Postdoctoral Research Fellow at <strong>Northeastern University's Khoury College of Computer Sciences</strong>.  
 
-I am a <strong>human-computer interaction</strong> and <strong>design</strong> researcher specializing in <strong>usable privacy and security</strong>.  
+<strong>I am a <mark>human-computer interaction</mark> and <mark>design</mark> researcher specializing in <mark>human-centered privacy and security</mark></strong>.  
 
-<strong><mark>I examine how the deep entanglement of algorithmic technologies and digital services into society has resulted in concrete harms to people’s privacy; I design collaborative and social systems to help people recover from these privacy losses.</mark></strong>
+I formally examine how the ever-deepening entanglement of algorithmic technologies and digital services into society has resulted in concrete harms to people’s privacy. These entanglements have necessitated a recalibration of what privacy fundamentally means to people. In parallel, I create uplifting, social designs to help people navigate these challenging, changing contexts.
 
-My work employs a combination of speculative design and traditional HCI methods.  I publish at top venues in human-computer interaction (CHI, CSCW), security and privacy (IEEE S&P, USENIX Security), and AI ethics (FAccT).  My research has been supported by a Georgia Tech President's Fellowship and a JP Morgan Chase AI Research Fellowship. 
+My work employs a combination of speculative design and traditional HCI methods.  I publish at top venues in human-computer interaction (<strong>CHI</strong>, <strong>CSCW</strong>), security and privacy (<strong>IEEE S&P</strong>, <strong>USENIX Security</strong>), and AI ethics (<strong>FAccT</strong>).  My research has been supported by a Georgia Tech President's Fellowship and a JP Morgan Chase AI Research Fellowship. 
 
 At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alexandra To</a>.  I earned my PhD in Computer Science in 2024 from <strong>Georgia Tech's School of Interactive Computing</strong>, where I studied human-computer interaction and computer-supported cooperative work under the co-advisement of <a href="https://sauvikdas.com/">Sauvik Das</a> and <a href="https://faculty.cc.gatech.edu/~keith/">Keith Edwards</a>.  Prior to my PhD, I worked with <a href="https://www.blaseur.com/">Blase Ur</a> at the University of Chicago.
 
 ---
 
-## publications
+## select publications
 
 <ol reversed>
 <li><a href="">Provoking Transformation in Usable Privacy and Security: Designing for Enduring End-User Motivation Beyond Expert Compliance</a><br>
@@ -97,3 +97,4 @@ TA, Introduction to Programming for Public Policy (Python). Fall 2017.
 ---
 <sm>
 In a past life, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.  I completed my M.S. in Computational Analysis and Public Policy at the University of Chicago in 2018, and my B.A. in Economics and Business at University College London in 2015.  My side quests include photography, running, hiking, backpacking, and reading.  I enjoy lugging a 5lb, 50-year-old camera up mountains. <sm>
+
