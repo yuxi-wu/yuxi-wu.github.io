@@ -4,7 +4,8 @@ title: "yuxi wu"
 ---
 <link rel = "stylesheet" href="yuxi-style.css">
 <p align="right">
-Distinguished Postdoctoral Research Fellow
+<strong>Yuxi Wu, PhD</strong>
+<br>Distinguished Postdoctoral Research Fellow
 <br>Northeastern University
 <br>502-9 @ 177 Huntington
 <br>email: firstname at ccs.neu.edu
@@ -95,7 +96,8 @@ TA, Data Skills for Public Policy (R). Winter 2018.<br>
 TA, Introduction to Programming for Public Policy (Python). Fall 2017.
 
 ---
-<sm>
-In a past life, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.  I completed my M.S. in Computational Analysis and Public Policy at the University of Chicago in 2018, and my B.A. in Economics and Business at University College London in 2015.  My side quests include photography, running, hiking, backpacking, and reading.  I enjoy lugging a 5lb, 50-year-old camera up mountains. <sm>
+<br>
+<sm>In a past life, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.  I completed my M.S. in Computational Analysis and Public Policy at the University of Chicago in 2018, and my B.A. in Economics and Business at University College London in 2015.  My side quests include photography, running, hiking, backpacking, and reading.  I enjoy lugging a 5lb, 50-year-old camera up mountains. <sm>
+
 
 
