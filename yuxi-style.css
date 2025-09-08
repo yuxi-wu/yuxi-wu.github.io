@@ -9,7 +9,11 @@ html, body { background: floralwhite; }
 
 html { height: 100%; padding-top: 50px; padding-bottom: 50px; }
 
-body { color: black; font-family: monospace; font-size: 16px; line-height: 1.4; margin: 0; min-height: 100%; overflow-wrap: break-word; background-color: floralwhite;}
+body { color: black; 
+      font-family: monospace; font-size: 16px; 
+      line-height: 1.4; margin: 0; min-height: 100%; overflow-wrap: break-word; background-color: floralwhite;
+     padding-bottom:50px;
+     padding-top:50px;}
 
 .post-meta { text-align: right; }
 
@@ -55,6 +59,7 @@ blockquote p { margin: 0; }
 
 img { max-width: 100%; display: block; margin: 0 auto; }
 
+ul { font-family: Times; }
 ul li { list-style-type: '\2605'; padding-left: 10px; margin-bottom: -5px;}
 
 ol { font-size: 14px; }
