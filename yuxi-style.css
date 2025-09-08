@@ -5,7 +5,7 @@ body[a="dark"] img.ioda { filter: invert(0); }
 @media (prefers-color-scheme: dark) { body[a="auto"] { filter: invert(1); }
   body[a="auto"] img { filter: invert(1); }
   body[a="auto"] img.ioda { filter: invert(0); } }
-html, body { background: white; }
+html, body { background: floralwhite; }
 
 html { height: 100%; }
 
