@@ -5,9 +5,9 @@ body[a="dark"] img.ioda { filter: invert(0); }
 @media (prefers-color-scheme: dark) { body[a="auto"] { filter: invert(1); }
   body[a="auto"] img { filter: invert(1); }
   body[a="auto"] img.ioda { filter: invert(0); } }
-html, body { background: floralwhite; max-width: 800px; margin: 0 auto; padding: 4rem 2rem;}
+html, body { background: floralwhite; max-width: 800px; margin: auto }
 
-html { height: 100%; padding-bottom:50px; padding-top:50px}
+html { height: 100% }
 
 body { color: black; 
       font-family: Times; font-size: 16px; 
