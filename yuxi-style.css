@@ -10,10 +10,10 @@ html, body { background: floralwhite; max-width: 800px; margin: 0 auto }
 html { height: 100% }
 
 body { color: black; 
-      font-family: Times; font-size: 16px; 
+      font-family: monospace; font-size: 16px; 
       line-height: 1.4; min-height: 100%; overflow-wrap: break-word; background-color: floralwhite;
-     padding-bottom:100px;
-     padding-top:50px;}
+     padding-bottom:150px;
+     padding-top:100px;}
 
 body.w { max-width: 800px; margin: 0 auto; padding: 4rem 4rem; }
 
