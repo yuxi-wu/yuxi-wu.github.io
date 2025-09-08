@@ -12,7 +12,7 @@ title: "yuxi wu"
 <br><a href="https://bsky.app/profile/yuxiwu.com">bluesky</a> + <a href="https://scholar.google.com/citations?user=RsHO4ykAAAAJ">google scholar</a> + <a href="https://www.linkedin.com/in/yuxi-wu/">linkedin</a> + <a href="./cv-yuxiwu.pdf">CV</a>
 </p>
 
----
+<hr>
 
 ## hi, i'm yuxi
 
@@ -26,7 +26,7 @@ My work employs a combination of speculative design and traditional HCI methods.
 
 At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alexandra To</a>.  I earned my PhD in Computer Science in 2024 from <strong>Georgia Tech's School of Interactive Computing</strong>, where I studied human-computer interaction and computer-supported cooperative work under the co-advisement of <a href="https://sauvikdas.com/">Sauvik Das</a> and <a href="https://faculty.cc.gatech.edu/~keith/">Keith Edwards</a>.  Prior to my PhD, I worked with <a href="https://www.blaseur.com/">Blase Ur</a> at the University of Chicago.
 
----
+<hr>
 
 ## select publications
 
@@ -81,7 +81,7 @@ At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alex
 <p><strong>Yuxi Wu</strong>, Panya Gupta, Miranda Wei, Yasemin Acar, Sascha Fahl, and Blase Ur. 
 <br><i>The Web Conference (WWW)</i>, 2018.</p></li></ol>
 
----
+<hr>
 
 ## teaching
 
@@ -95,9 +95,10 @@ TA, User Interface Design. Summer 2021.
 TA, Data Skills for Public Policy (R). Winter 2018.<br>
 TA, Introduction to Programming for Public Policy (Python). Fall 2017.
 
----
-<br>
+<hr>
+
 <sm>In a past life, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.  I completed my M.S. in Computational Analysis and Public Policy at the University of Chicago in 2018, and my B.A. in Economics and Business at University College London in 2015.  My side quests include photography, running, hiking, backpacking, and reading.  I enjoy lugging a 5lb, 50-year-old camera up mountains. <sm>
+
 
 
 
