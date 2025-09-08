@@ -3,8 +3,8 @@ layout: home
 title: "yuxi wu"
 ---
 <link rel = "stylesheet" href="yuxi-style.css">
+<h1>Yuxi Wu, PhD</h1>
 <p align="right">
-<strong>Yuxi Wu, PhD</strong>
 <br>Distinguished Postdoctoral Research Fellow
 <br>Northeastern University
 <br>502-9 @ 177 Huntington
@@ -14,7 +14,7 @@ title: "yuxi wu"
 
 <hr>
 
-## hi, i'm yuxi
+<h2>hi, i'm yuxi</h2>
 
 I am a Distinguished Postdoctoral Research Fellow at <strong>Northeastern University's Khoury College of Computer Sciences</strong>.  
 
@@ -28,7 +28,7 @@ At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alex
 
 <hr>
 
-## select publications
+<h2>select publications</h2>
 
 <ol reversed>
 <li><a href="">Provoking Transformation in Usable Privacy and Security: Designing for Enduring End-User Motivation Beyond Expert Compliance</a><br>
@@ -83,21 +83,22 @@ At Northeastern, I work closely with <a href="https://www.alexandrato.com/">Alex
 
 <hr>
 
-## teaching
+<h2>teaching</h2>
 
-#### College of Computing, Georgia Institute of Technology
+<h4>College of Computing, Georgia Institute of Technology</h4>
 TA, Human-Computer Interaction. Fall 2023.<br>
 Co-Instructor, Usable Privacy and Security. Spring 2023.<br>
 TA, Computing, Society, and Professionalism. Fall 2022.<br>
 TA, User Interface Design. Summer 2021.
 
-#### Harris School of Public Policy, University of Chicago
+<h4>Harris School of Public Policy, University of Chicago</h4>
 TA, Data Skills for Public Policy (R). Winter 2018.<br>
 TA, Introduction to Programming for Public Policy (Python). Fall 2017.
 
 <hr>
 
 <sm>In a past life, I worked at the DNC as an analytics manager on the Mobilization team. I designed behavioral experiments for and modeled grassroots fundraising and voter outreach via email, SMS, and direct mail.  I completed my M.S. in Computational Analysis and Public Policy at the University of Chicago in 2018, and my B.A. in Economics and Business at University College London in 2015.  My side quests include photography, running, hiking, backpacking, and reading.  I enjoy lugging a 5lb, 50-year-old camera up mountains. <sm>
+
 
 
 
